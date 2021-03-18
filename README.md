@@ -1,9 +1,9 @@
 ### Hello 👋
  
- # I'm Shivanand <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="50" >
+ # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="50" >
 
  
-[![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/pinnacle_20)
+[![codechef badge](https://img.shields.io/badge/pinnacle_20?style=flat&logo=codechef)](https://www.codechef.com/users/pinnacle_20)
 [![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/pinnacle_20)
 ![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
 
