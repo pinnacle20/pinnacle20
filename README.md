@@ -1,14 +1,14 @@
 ### Hello 👋
  
- # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="50" >
+ # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="30"  >
 
- 
+<!--  
 [![codechef badge](https://img.shields.io/badge/pinnacle_20?style=flat&logo=codechef)](https://www.codechef.com/users/pinnacle_20)
-[![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/pinnacle_20)
-![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
+[![hackerrank badge](https://img.shields.io/badge/pinnacle_20?style=flat&logo=hackerrank)](https://www.hackerrank.com/pinnacle_20)
+![](https://visitor-badge.glitch.me/badge?page_id=pinnacle20.pinnacle20)   -->
 
 </br>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/fa/41/6d/fa416d07a238578455d4f3e4b9b11a45.gif" />
+<!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/fa/41/6d/fa416d07a238578455d4f3e4b9b11a45.gif" /> -->
 
 **I'm a First year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.**
 
