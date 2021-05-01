@@ -6,8 +6,8 @@
 
 
 - 🔭 Working on my problem solving skills.
-- 🌱 Currently learning Frontend.
-- 🎨 My hobby : Reading books, Playing chess, Listning music
+- 🌱 Currently learning Frontend Development.
+- 🎨 My hobby : Reading books, Playing chess, Listning to music
 - 📫 Any suggestion : shivanandchoudhary22@gmail.com
 
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
