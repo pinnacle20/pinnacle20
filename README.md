@@ -6,7 +6,7 @@
 
 
 - 🔭 Working on my problem solving skills.
-- 🌱 Currently learning Frontend Development.
+- 🌱 Currently Learning Web Developement.
 - 🎨 My hobby : Reading books, Playing chess, Listning to music
 - 📫 Any suggestion : shivanandchoudhary22@gmail.com
 
