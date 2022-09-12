@@ -2,7 +2,7 @@
  
  # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="30"  >
 
-**I'm a Prefindal year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies**
+**I'm a Prefinal year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies**
 
 
 - 🔭 Working on my problem solving skills.
