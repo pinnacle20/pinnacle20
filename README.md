@@ -2,12 +2,12 @@
  
  # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="30"  >
 
-**I'm a Prefinal year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies**
+**I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively, curious and a self learner.**
 
 
 - 🔭 Working on my problem solving skills.
 - 🌱 Currently Learning Web Developement.
-- 🎨 My hobby : Reading books, Playing chess, Listning to music
+- 🎨 My hobby : Reading books, Playing chess, Listning to music.
 - 📫 Any suggestion : shivanandchoudhary22@gmail.com
 
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
