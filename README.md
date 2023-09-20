@@ -4,10 +4,6 @@
 
 **I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively, curious and a self learner.**
 
-
-- 🔭 Working on my problem solving skills.
-- 🌱 Currently Learning Web Developement.
-- 🎨 My hobby : Reading books, Playing chess, Listning to music.
 - 📫 Any suggestion : shivanandchoudhary22@gmail.com
 
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
@@ -29,9 +25,13 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </a>
-<a href="https://www.linkedin.com/in/pinnacle20/" target="_blank">
+<a href="https://www.linkedin.com/in/shivanand07/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:" target="_blank"> shivanandchoudhary22@gmail.com
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 
 </a>  
 </p> 
