@@ -4,8 +4,6 @@
 
 **I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively, curious and a self learner.**
 
-- 📫 Any suggestion : shivanandchoudhary22@gmail.com
-
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinnacle20&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
