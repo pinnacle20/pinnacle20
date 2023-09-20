@@ -4,13 +4,11 @@
 
 **I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively, curious and a self learner.**
 
-<--
+<!--
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinnacle20&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 -->
-
-
-<!--# Languages and Tools
+Languages and Tools
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="50px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="50px"> <img src="https://www.python.org/static/opengraph-icon-200x200.png"  height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px"> 
@@ -18,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  height="50px"> 
 -->
-# Let's Connect
+## Let's Connect
 
 <p align="center">
 <a href="https://github.com/pinnacle20" target="_blank">
