@@ -2,7 +2,7 @@
  
  # I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="30"  >
 
-**I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creatively, curious and a self learner.**
+**I'm a Final Year IT undergraduate pursuing B.Tech from MNNIT Allahabad and a passionate programmer who loves to code. I am creative, curious and a self learner.**
 
 <!--
 ![Shivanand's github stats](https://github-readme-stats.vercel.app/api?username=pinnacle20&show_icons=true&hide_border=true&hide=["stars"])
@@ -18,7 +18,7 @@ Languages and Tools
 -->
 ## Let's Connect
 
-<p align="center">
+<p >
 <a href="https://github.com/pinnacle20" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
