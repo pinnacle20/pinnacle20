@@ -18,7 +18,7 @@ Languages and Tools
 -->
 ### Let's Connect
 
-<p >
+
 <a href="https://github.com/pinnacle20" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -30,4 +30,4 @@ Languages and Tools
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </a>  
-</p> 
+
