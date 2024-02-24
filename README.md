@@ -29,5 +29,3 @@ Languages and Tools
 <a href="mailto:shivanandchoudhary22@gmail.com"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>  
-
-![Visitor Count](https://profile-counter.glitch.me/{pinnacle20}/count.svg)
