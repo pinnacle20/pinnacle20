@@ -1,3 +1,4 @@
+
 ## Ciao! 👋
  
  ## I'm Shivanand <img src="https://gifimage.net/wp-content/uploads/2018/05/smile-animated-gif-3.gif" width="30"  >
@@ -20,14 +21,13 @@ Languages and Tools
 
 
 <a href="https://github.com/pinnacle20" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; text-decoration: none;"/>
 </a>
 <a href="https://www.linkedin.com/in/shivanand07/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; text-decoration: none;" />
 </a>
 <a href="mailto:shivanandchoudhary22@gmail.com"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 </a>  
 
+![Visitor Count](https://profile-counter.glitch.me/{pinnacle20}/count.svg)
